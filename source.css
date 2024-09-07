@@ -27,7 +27,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
   --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
   /*Backgrounds*/
-  --master-background: url('https://www.dropbox.com/scl/fi/esuivi6xl6omb13aedy0c/57fb80c1ced32ecae7a129018b1b4d32-1.jpg?rlkey=q86balsw1v4l1ph3rhmj8vxz3&st=tvr9obbw&dl=1'); /*master background*/
+  --master-background: url('https://www.dropbox.com/scl/fi/8qohk0ulz0x1w7ex0c4q7/e6ba40e3edf5b0f07bce622e320f6d70.jpg?rlkey=oent91naf2tx6gozup5d03vtx&st=hnbvpiu0&dl=1'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
